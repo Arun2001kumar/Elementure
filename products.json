@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e-smart-lock",
+    "name": "e. Smart Lock",
+    "category": "Access Control",
+    "tagline": "Secure, weatherproof, and easy to use.",
+    "images": [
+      "assets/manual_page_01.png",
+      "assets/manual_page_02.png",
+      "assets/manual_page_03.png",
+      "assets/manual_page_04.png"
+    ],
+    "overview": "Advanced smart door lock with precise biometrics and installer-friendly options. Built to handle harsh weather and everyday use.",
+    "video": "ezup-NTuUZQ",
+    "features": [
+      "Long-lasting battery with low-power alerts",
+      "Weatherproof: −25°C to 65°C, 15–95% RH",
+      "500 DPI fingerprint sensor; refusal ≤0.01%; counterfeit ≤0.0001%",
+      "Access modes: Fingerprint, PIN, Smart Card, Manual key",
+      "User capacity: up to 10 admins & 90 users",
+      "Dual-verification mode & alarms",
+      "Event history record query",
+      "Installer options: motor direction, timings, delay lock"
+    ],
+    "specs": {
+      "Battery": "7.4V polymer lithium",
+      "Power current": "< 90 mA",
+      "Sensor resolution": "500 DPI",
+      "Refusal rate": "≤ 0.01%",
+      "Counterfeit rate": "≤ 0.0001%",
+      "Operating temperature": "−25°C to 65°C",
+      "Relative humidity": "15% to 95%",
+      "User capacity": "Up to 10 admins, 90 users",
+      "Access modes": "Fingerprint / Password / Smart Card / Manual key"
+    },
+    "downloads": [
+      { "name": "e. Smart Lock — User Manual (PDF)", "url": "docs/elementure-user-manual.pdf" }
+    ]
+  },
+  {
+    "id": "smart-switches",
+    "name": "Elementure Smart Switches",
+    "category": "Smart Switching",
+    "tagline": "Elegant, reliable control of lights and appliances.",
+    "images": ["assets/manual_page_04.png"],
+    "overview": "Scene control, schedules, and crisp tactile feel. Designed to blend with modern interiors while delivering dependable automation.",
+    "features": [
+      "Scene buttons and scheduling",
+      "Status feedback & night indicators",
+      "Retrofit friendly, multiple faceplates",
+      "App-free local control options"
+    ],
+    "specs": {
+      "Load options": "Multiple SKUs",
+      "Faceplates": "White / Matte / Custom",
+      "Install": "Standard wall box"
+    },
+    "downloads": []
+  },
+  {
+    "id": "aquesa-water",
+    "name": "Aquesa Water Management",
+    "category": "Water Management",
+    "tagline": "Track, control, and save every drop.",
+    "images": ["assets/manual_page_05.png"],
+    "overview": "Ultrasonic metering, remote readouts, and automated shut-off to prevent leaks. Ideal for residential communities and builders.",
+    "features": [
+      "Accurate ultrasonic metering",
+      "Leak/anomaly detection alerts",
+      "Remote valve actuation (SKU-dependent)",
+      "IP-rated outdoor enclosures"
+    ],
+    "specs": {
+      "Connectivity": "LoRaWAN / NB-IoT / Cellular (by SKU)",
+      "Ingress Protection": "Up to IP68",
+      "Operating Temp": "SKU-dependent"
+    },
+    "downloads": []
+  }
+]
